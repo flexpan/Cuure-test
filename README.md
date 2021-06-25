@@ -10,6 +10,10 @@ Project is running on Expo CLI [Expo CLI documentation](https://docs.expo.io/wor
 ```bash
 $ npm install -g expo-cli
 ```
+- Clone project:
+```bash
+$ npm install -g expo-cli
+```
 - Don't forget to get all modules after cloning:
 ```bash
 $ npm install
