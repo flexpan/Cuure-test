@@ -12,7 +12,7 @@ $ npm install -g expo-cli
 ```
 - Clone project:
 ```bash
-$ npm install -g expo-cli
+$ git clone https://github.com/flexpan/Cuure-test.git
 ```
 - Don't forget to get all modules after cloning:
 ```bash
