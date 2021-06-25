@@ -6,19 +6,19 @@ when an item is clicked a pop up displayes with more details.
 ## Install
 Project is running on Expo CLI [Expo CLI documentation](https://docs.expo.io/workflow/expo-cli/)
 
--To install it globaly with npm:
+- To install it globaly with npm:
 ```bash
 $ npm install -g expo-cli
 ```
--Don't forget to get all modules after cloning:
+- Don't forget to get all modules after cloning:
 ```bash
 $ npm install
 ```
--To start the project:
+- To start the project:
 ```bash
 $ expo start
 ```
--you can use an emulator like [Android Studio](https://developer.android.com/studio?hl=fr&gclid=Cj0KCQjw_dWGBhDAARIsAMcYuJzSovQUMaKvzzyj5RGep02BK4sZNquPNdM7-vQApyo1TW7hJvsjNbEaAhBDEALw_wcB&gclsrc=aw.ds) to run the app or you can download Expo Go on your SmartPhone then use the QR code.
+- you can use an emulator like [Android Studio](https://developer.android.com/studio?hl=fr&gclid=Cj0KCQjw_dWGBhDAARIsAMcYuJzSovQUMaKvzzyj5RGep02BK4sZNquPNdM7-vQApyo1TW7hJvsjNbEaAhBDEALw_wcB&gclsrc=aw.ds) to run the app or you can download Expo Go on your SmartPhone then use the QR code.
 
 ## Library installed
 - [axios](https://github.com/axios/axios)
