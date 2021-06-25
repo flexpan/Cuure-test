@@ -5,6 +5,7 @@ when an item is clicked a pop up displayes with more details.
 
 ## Install
 Project is running on Expo CLI [Expo CLI documentation](https://docs.expo.io/workflow/expo-cli/)
+
 -To install it globaly with npm:
 ```bash
 $ npm install -g expo-cli
